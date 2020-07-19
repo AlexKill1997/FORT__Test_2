@@ -1,3 +1,14 @@
+HOW TO INSTALL AND BUILD MY APP:
+
+1.git clone https://github.com/AlexKill1997/FORT__Test_2.git
+
+2.cd FORT__Test_2
+
+3.npm i
+
+4.npm run serve
+
+
 # fort
 
 ## Project setup
