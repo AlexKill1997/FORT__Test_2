@@ -6,7 +6,7 @@ HOW TO INSTALL AND BUILD MY APP:
 
 3.npm i
 
-4.npm run serve
+4.npm run build
 
 
 # fort
