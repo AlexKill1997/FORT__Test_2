@@ -206,7 +206,7 @@ export default {
 
     }
     .content__text{
-        margin-right: 3rem;
+        margin-right: 1.5rem;
     }
 
 

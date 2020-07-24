@@ -2,7 +2,7 @@
     <div class="map__container">
         <h6 class="map__title">На карте</h6>
         <div class="map">
-            <img src="../assets/map.png" alt="">
+            <img class="pic" src="../assets/map.png" alt="">
         </div>
     </div>
 </template>
@@ -19,5 +19,10 @@
     }
     .map__title{
         font-size: 1.4rem;
+    }
+
+    .pic{
+        display:block;
+        width: 100%;
     }
 </style>>

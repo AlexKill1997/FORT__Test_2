@@ -2,11 +2,11 @@
   <div id="app">
     <div class="container-fluid">
       <div class="row no-gutter">
-        <div class="sidebar col-3 col-sm-3 col-md-3 col-lg-2">
+        <div class="sidebar col-3 col-sm-3 col-md-2 col-lg-2">
           
           <sidebar/>
         </div>
-        <div class="col-9 col-sm-9 col-md-9 col-lg-10">
+        <div class="col-9 col-sm-9 col-md-10 col-lg-10">
           <top/>
           <div class="maincontent">
             <div class="first__row">
